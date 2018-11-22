@@ -1,0 +1,6 @@
+Nov 22 2018 04:15:58
+{"Number":2,"Message":"mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given","File":"\/Users\/williamsugden\/Desktop\/wpsites\/soundblogchild\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/database\/class-ai1wm-database-mysqli.php","Line":82}
+
+Nov 22 2018 04:15:58
+{"Number":2,"Message":"mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given","File":"\/Users\/williamsugden\/Desktop\/wpsites\/soundblogchild\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/database\/class-ai1wm-database-mysqli.php","Line":112}
+
