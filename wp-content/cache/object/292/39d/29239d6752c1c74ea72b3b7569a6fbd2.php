@@ -1,0 +1,1 @@
+™σφ[<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":4:{s:12:"last_checked";i:1542910693;s:7:"checked";a:3:{s:13:"twentyfifteen";s:3:"2.0";s:21:"twentyseventeen-child";s:5:"0.1.0";s:15:"twentyseventeen";s:3:"1.7";}s:8:"response";a:0:{}s:12:"translations";a:0:{}}}
